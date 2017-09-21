@@ -57,6 +57,8 @@ Total score == 167
 
 
 # TO DO List
-- Implement exception handling 
+- Implement exception handling so game no longer crashes with invalid scoresheets
+- refactor the main score Line.CalculateTotalScore method to break down in to smaller, more self documented methods
 - validate score sheet using a regex
 - allow a few players to enter their score, then put them in Desc order.
+- a few magic ints that need refactoring out to document what they are
