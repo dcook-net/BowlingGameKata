@@ -54,3 +54,9 @@ Total score == 10 frames x 15 == 150
 
 X|7/|9-|X|-8|8/|-6|X|X|X||81
 Total score == 167
+
+
+# TO DO List
+- Implement exception handling 
+- validate score sheet using a regex
+- allow a few players to enter their score, then put them in Desc order.
